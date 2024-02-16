@@ -1,5 +1,5 @@
 /*
- * main.c
+ * Lcd.h
  *
  *  Created on: Feb 14, 2024
  *      Author: Omar Tarek
